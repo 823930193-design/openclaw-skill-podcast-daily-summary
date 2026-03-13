@@ -1,0 +1,23 @@
+# 配置文件
+config.yaml
+*.yaml
+*.yml
+
+# 历史记录
+history.json
+*.log
+
+# 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 本地文档
+*.md~
+*.tmp
+
+# 环境变量
+.env
+.venv/
+env/
